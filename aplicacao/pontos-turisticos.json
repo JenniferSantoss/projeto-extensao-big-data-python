@@ -1,0 +1,593 @@
+[
+    {
+        "Destinos": {
+            "segurança": 8,
+            "facilidade_acesso": 7,
+            "infraestrutura_turística": 9,
+            "localização": "Paraty, Rio de Janeiro, Brasil"
+        },
+        "Atividades": [
+            "caminhada",
+            "observação de aves",
+            "escalada",
+            "esportes aquáticos",
+            "gastronomia",
+            "snorkeling",
+            "tour histórico"
+        ],
+        "Acomodações": [
+            "hotel",
+            "resort",
+            "pousada",
+            "camping",
+            "apartamento"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-05-12",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-06-15",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-07-20",
+                "tipo_avaliacao": "acomodacao" 
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "online"
+        },
+        "Meios_Transporte": [
+            "avião",
+            "ônibus",
+            "trem"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "avião",
+                "data_reserva": "2024-08-05"
+            },
+            {
+                "tipo_transporte": "onibus",  
+                "data_reserva": "2024-08-10"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "Azul",
+                "codigo_iata": "CMP",
+                "nacionalidade": "Brasil"
+            },
+            {
+                "nome": "Latam",
+                "codigo_iata": "CMPB",
+                "nacionalidade": "Brasil"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "Azul",
+                "data_reserva": "2024-08-05"
+            },
+            {
+                "companhia_aerea": "Gol",
+                "data_reserva": "2024-08-10"
+            }
+        ]
+    },
+    {
+        "Destinos": {
+            "segurança": 9,
+            "facilidade_acesso": 8,
+            "infraestrutura_turística": 7,
+            "localização": "Maceió, Alagoas, Brasil"
+        },
+        "Atividades": [
+            "passeio de barco",
+            "mergulho",
+            "snorkeling"
+        ],
+        "Acomodações": [
+            "hotel",
+            "pousada",
+            "apartamento"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-05-18",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-06-20",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-07-25",
+                "tipo_avaliacao": "acomodacao"  
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "agência física"
+        },
+        "Meios_Transporte": [
+            "carro",
+            "ônibus",
+            "barco"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "carro",
+                "data_reserva": "2024-08-06"
+            },
+            {
+                "tipo_transporte": "barco",
+                "data_reserva": "2024-08-12"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "Latam",
+                "codigo_iata": "CMPC",
+                "nacionalidade": "Brasil"
+            },
+            {
+                "nome": "Azul",
+                "codigo_iata": "CMPD",
+                "nacionalidade": "Argentina"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "Latam",
+                "data_reserva": "2024-08-06"
+            },
+            {
+                "companhia_aerea": "Gol",
+                "data_reserva": "2024-08-12"
+            }
+        ]
+    },
+    {
+        "Destinos": {
+            "segurança": 6,
+            "facilidade_acesso": 9,
+            "infraestrutura_turística": 8,
+            "localização": "Florença, Toscana, Itália"
+        },
+        "Atividades": [
+            "passeio cultural",
+            "gastronomia",
+            "tour histórico"
+        ],
+        "Acomodações": [
+            "resort",
+            "hotel",
+            "apartamento"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-05-25",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-06-28",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-07-30",
+                "tipo_avaliacao": "acomodação"
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "online"
+        },
+        "Meios_Transporte": [
+            "avião",
+            "trem",
+            "carro"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "avião",
+                "data_reserva": "2024-08-15"
+            },
+            {
+                "tipo_transporte": "carro",
+                "data_reserva": "2024-08-18"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "Azul",
+                "codigo_iata": "CMPE",
+                "nacionalidade": "Chile"
+            },
+            {
+                "nome": "Gol",
+                "codigo_iata": "CMPF",
+                "nacionalidade": "Brasil"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "Azul",
+                "data_reserva": "2024-08-15"
+            },
+            {
+                "companhia_aerea": "Gol",
+                "data_reserva": "2024-08-18"
+            }
+        ]
+    },
+    {
+        "Destinos": {
+            "segurança": 7,
+            "facilidade_acesso": 8,
+            "infraestrutura_turística": 9,
+            "localização": "Queenstown, Otago, Nova Zelândia"
+        },
+        "Atividades": [
+            "caminhada",
+            "esportes aquáticos",
+            "observação de vida selvagem"
+        ],
+        "Acomodações": [
+            "camping",
+            "pousada",
+            "hotel"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-06-02",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-07-10",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-08-01",
+                "tipo_avaliacao": "acomodação"
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "agência física"
+        },
+        "Meios_Transporte": [
+            "ônibus",
+            "carro",
+            "trem"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "ônibus",
+                "data_reserva": "2024-08-20"
+            },
+            {
+                "tipo_transporte": "carro",
+                "data_reserva": "2024-08-25"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "Latam",
+                "codigo_iata": "CMPG",
+                "nacionalidade": "Brasil"
+            },
+            {
+                "nome": "Azul",
+                "codigo_iata": "CMPH",
+                "nacionalidade": "México"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "Latam",
+                "data_reserva": "2024-08-20"
+            },
+            {
+                "companhia_aerea": "Azul",
+                "data_reserva": "2024-08-25"
+            }
+        ]
+    },    
+    {
+        "Destinos": {
+            "segurança": 8,
+            "facilidade_acesso": 7,
+            "infraestrutura_turística": 9,
+            "localização": "Búzios, Rio de Janeiro, Brasil"
+        },
+        "Atividades": [
+            "praia",
+            "esportes aquáticos",
+            "vida noturna"
+        ],
+        "Acomodações": [
+            "hotel",
+            "resort",
+            "pousada"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-05-12",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-06-15",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-07-20",
+                "tipo_avaliacao": "acomodação" 
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "online"
+        },
+        "Meios_Transporte": [
+            "avião",
+            "carro",
+            "ônibus"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "avião",
+                "data_reserva": "2024-08-05"
+            },
+            {
+                "tipo_transporte": "carro",
+                "data_reserva": "2024-08-10"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "Gol",
+                "codigo_iata": "GOL",
+                "nacionalidade": "Brasil"
+            },
+            {
+                "nome": "Latam",
+                "codigo_iata": "LAT",
+                "nacionalidade": "Chile"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "Gol",
+                "data_reserva": "2024-08-05"
+            },
+            {
+                "companhia_aerea": "Latam",
+                "data_reserva": "2024-08-10"
+            }
+        ]
+    },
+    {
+        "Destinos": {
+            "segurança": 9,
+            "facilidade_acesso": 8,
+            "infraestrutura_turística": 7,
+            "localização": "Tóquio, Kanto, Japão"
+        },
+        "Atividades": [
+            "passeios culturais",
+            "compras",
+            "gastronomia"
+        ],
+        "Acomodações": [
+            "hotel",
+            "apartamento",
+            "hostel"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-05-18",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-06-20",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-07-25",
+                "tipo_avaliacao": "acomodação"  
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "agência física"
+        },
+        "Meios_Transporte": [
+            "trem",
+            "metrô",
+            "avião"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "trem",
+                "data_reserva": "2024-08-06"
+            },
+            {
+                "tipo_transporte": "metrô",
+                "data_reserva": "2024-08-12"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "All Nippon Airways",
+                "codigo_iata": "ANA",
+                "nacionalidade": "Japão"
+            },
+            {
+                "nome": "Japan Airlines",
+                "codigo_iata": "JAL",
+                "nacionalidade": "Japão"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "ANA",
+                "data_reserva": "2024-08-06"
+            },
+            {
+                "companhia_aerea": "JAL",
+                "data_reserva": "2024-08-12"
+            }
+        ]
+    },
+    {
+        "Destinos": {
+            "segurança": 6,
+            "facilidade_acesso": 9,
+            "infraestrutura_turística": 8,
+            "localização": "Santorini, Egeu Meridional, Grécia"
+        },
+        "Atividades": [
+            "passeio de barco",
+            "praias",
+            "gastronomia"
+        ],
+        "Acomodações": [
+            "resort",
+            "hotel",
+            "apartamento"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-05-25",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-06-28",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-07-30",
+                "tipo_avaliacao": "acomodação"
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "online"
+        },
+        "Meios_Transporte": [
+            "avião",
+            "barco",
+            "carro"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "avião",
+                "data_reserva": "2024-08-15"
+            },
+            {
+                "tipo_transporte": "barco",
+                "data_reserva": "2024-08-18"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "Aegean Airlines",
+                "codigo_iata": "AEE",
+                "nacionalidade": "Grécia"
+            },
+            {
+                "nome": "Olympic Air",
+                "codigo_iata": "OAL",
+                "nacionalidade": "Grécia"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "Aegean Airlines",
+                "data_reserva": "2024-08-15"
+            },
+            {
+                "companhia_aerea": "Olympic Air",
+                "data_reserva": "2024-08-18"
+            }
+        ]
+    },
+    {
+        "Destinos": {
+            "segurança": 7,
+            "facilidade_acesso": 8,
+            "infraestrutura_turística": 9,
+            "localização": "Queenstown, Otago, Nova Zelândia"
+        },
+        "Atividades": [
+            "caminhada",
+            "esportes aquáticos",
+            "observação de vida selvagem"
+        ],
+        "Acomodações": [
+            "camping",
+            "pousada",
+            "hotel"
+        ],
+        "Avaliações": [
+            {
+                "data_avaliacao": "2024-06-02",
+                "tipo_avaliacao": "destino"
+            },
+            {
+                "data_avaliacao": "2024-07-10",
+                "tipo_avaliacao": "atividade"
+            },
+            {
+                "data_avaliacao": "2024-08-01",
+                "tipo_avaliacao": "acomodação"
+            }
+        ],
+        "Reservas": {
+            "agencia_de_viagens": "Icone Turismo",
+            "canal_de_venda": "agência física"
+        },
+        "Meios_Transporte": [
+            "ônibus",
+            "carro",
+            "trem"
+        ],
+        "Reservas_Meios_Transporte": [
+            {
+                "tipo_transporte": "ônibus",
+                "data_reserva": "2024-08-20"
+            },
+            {
+                "tipo_transporte": "carro",
+                "data_reserva": "2024-08-25"
+            }
+        ],
+        "Companhias_Aereas": [
+            {
+                "nome": "Latam",
+                "codigo_iata": "CMPG",
+                "nacionalidade": "Brasil"
+            },
+            {
+                "nome": "Azul",
+                "codigo_iata": "CMPH",
+                "nacionalidade": "México"
+            }
+        ],
+        "Reservas_Companhias_Aereas": [
+            {
+                "companhia_aerea": "Latam",
+                "data_reserva": "2024-08-20"
+            },
+            {
+                "companhia_aerea": "Azul",
+                "data_reserva": "2024-08-25"
+            }
+        ]
+    }
+    
+]
