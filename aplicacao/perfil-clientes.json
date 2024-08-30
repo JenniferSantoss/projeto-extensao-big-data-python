@@ -1,0 +1,284 @@
+[
+    {
+        "nome": "João Silva",
+        "idade": 34,
+        "frequencia_viagens": 3,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "hotel"
+    },
+    {
+        "nome": "Maria Oliveira",
+        "idade": 45,
+        "frequencia_viagens": 5,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "resort"
+    },
+    {
+        "nome": "Carlos Pereira",
+        "idade": "28",  
+        "frequencia_viagens": 2,
+        "tipo_viajante": "família",
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Ana Souza",
+        "idade": 52,
+        "frequencia_viagens": 1,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "hotel"
+    },
+    {
+        "nome": "Bruno Lima",
+        "idade": 29,
+        "frequencia_viagens": 4,
+        "tipo_viajante": "solo",
+        "preferencia_acomodação": "resort"  
+    },
+    
+    {
+        "nome": "Paulo Costa",
+        "idade": 37,
+        "frequencia_viagens": 2,
+        "tipo_viajante": "familia",  
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Fernanda Alves",
+        "idade": 42,
+        "frequencia_viagens": 6,
+        "tipo_viajante": "casal",
+        "preferencia_acomodacao": "hotel"  
+    },
+    {
+        "nome": "Lucas Rocha",
+        "idade": 31,
+        "frequencia_viagens": 3,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "apartamento"
+    },
+    {
+        "nome": "Rafael Martins",
+        "idade": 39,
+        "frequencia_viagens": 7,
+        "tipo_viajante": "família",
+        "preferência_acomodação": "resort"
+    },
+    {
+        "nome": "Patrícia Mendes",
+        "idade": 26,
+        "frequencia_viagens": 2,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Isabela Ferreira",
+        "idade": 33,
+        "frequencia_viagens": 3,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "hostel"
+    },
+    {
+        "nome": "Gabriel Santos",
+        "idade": 27,
+        "frequencia_viagens": "5",  
+        "tipo_viajante": "família",
+        "preferência_acomodação": "hotel"
+    },
+    {
+        "nome": "Juliana Ramos",
+        "idade": 41,
+        "frequencia_viagens": 1,
+        "tipo_viajante": "casal",
+        "preferência_acomodacao": "resort"  
+    },
+    {
+        "nome": "Rodrigo Almeida",
+        "idade": 35,
+        "frequencia_viagens": 4,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Camila Lima",
+        "idade": 28,
+        "frequencia_viagens": 2,
+        "tipo_viajante": "familia",  
+        "preferência_acomodação": "apartamento"
+    },
+    {
+        "nome": "Felipe Silva",
+        "idade": 39,
+        "frequencia_viagens": 3,
+        "tipo_viajante": "casal",
+        "preferencia_acomodação": "hotel"  
+    },
+    {
+        "nome": "Larissa Sousa",
+        "idade": 30,
+        "frequencia_viagens": 7,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "resort"
+    },
+    {
+        "nome": "Thiago Melo",
+        "idade": 45,
+        "frequencia_viagens": 1,
+        "tipo_viajante": "família",
+        "preferencia_acomodacao": "pousada"  
+    },
+    {
+        "nome": "Bruna Fernandes",
+        "idade": 34,
+        "frequencia_viagens": 5,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "hotel"
+    },
+    {
+        "nome": "André Barbosa",
+        "idade": 29,
+        "frequencia_viagens": 4,
+        "tipo_viajante": "solo",
+        "preferência_acomodacao": "apartamento"  
+    },
+    {
+        "nome": "Tatiana Costa",
+        "idade": "38",  
+        "frequencia_viagens": 3,
+        "tipo_viajante": "família",
+        "preferência_acomodação": "resort"
+    },
+    {
+        "nome": "Diego Araújo",
+        "idade": 32,
+        "frequencia_viagens": 2,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Carolina Gomes",
+        "idade": 26,
+        "frequencia_viagens": 6,
+        "tipo_viajante": "solo",
+        "preferência_acomodacao": "hotel"  
+    },
+    {
+        "nome": "Vitor Oliveira",
+        "idade": 42,
+        "frequencia_viagens": 1,
+        "tipo_viajante": "família",
+        "preferência_acomodação": "resort"
+    },
+    {
+        "nome": "Helena Martins",
+        "idade": 31,
+        "frequencia_viagens": 4,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "apartamento"
+    },
+    {
+        "nome": "Eduardo Nascimento",
+        "idade": 37,
+        "frequencia_viagens": 3,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "hotel"
+    },
+    {
+        "nome": "Renata Vieira",
+        "idade": 29,
+        "frequencia_viagens": "7",  
+        "tipo_viajante": "família",
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Gustavo Monteiro",
+        "idade": 40,
+        "frequencia_viagens": 2,
+        "tipo_viajante": "casal",
+        "preferencia_acomodação": "resort"  
+    },
+    {
+        "nome": "Mariana Rocha",
+        "idade": 35,
+        "frequencia_viagens": 1,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "apartamento"
+    },
+    {
+        "nome": "Pedro Fonseca",
+        "idade": 44,
+        "frequencia_viagens": 3,
+        "tipo_viajante": "família",
+        "preferência_acomodacao": "hotel"  
+    },
+    {
+        "nome": "Sabrina Mendes",
+        "idade": 28,
+        "frequencia_viagens": 4,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Rafael Teixeira",
+        "idade": 33,
+        "frequencia_viagens": 5,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "resort"
+    },
+    {
+        "nome": "Manuela Costa",
+        "idade": 27,
+        "frequencia_viagens": 6,
+        "tipo_viajante": "família",
+        "preferencia_acomodacao": "apartamento"  
+    },
+    {
+        "nome": "Lucas Ribeiro",
+        "idade": 39,
+        "frequencia_viagens": 2,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "hotel"
+    },
+    {
+        "nome": "Luana Martins",
+        "idade": 41,
+        "frequencia_viagens": 7,
+        "tipo_viajante": "solo",
+        "preferência_acomodacao": "resort"  
+    },
+    {
+        "nome": "Marcelo Souza",
+        "idade": 36,
+        "frequencia_viagens": 3,
+        "tipo_viajante": "família",
+        "preferência_acomodação": "pousada"
+    },
+    {
+        "nome": "Beatriz Almeida",
+        "idade": "32",  
+        "frequencia_viagens": 1,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "apartamento"
+    },
+    {
+        "nome": "Bruno Carvalho",
+        "idade": 30,
+        "frequencia_viagens": 4,
+        "tipo_viajante": "solo",
+        "preferência_acomodação": "hotel"
+    },
+    {
+        "nome": "Daniela Cardoso",
+        "idade": 38,
+        "frequencia_viagens": 2,
+        "tipo_viajante": "família",
+        "preferencia_acomodação": "resort"  
+    },
+    {
+        "nome": "Leonardo Lima",
+        "idade": 34,
+        "frequencia_viagens": 6,
+        "tipo_viajante": "casal",
+        "preferência_acomodação": "pousada"
+    }
+    
+]
