@@ -43,6 +43,7 @@ plt.xlabel('Idade')
 plt.ylabel('Frequência')
 plt.show()
 
+#tentando gerar um grafico simples
 fig = px.histogram(df_usuarios, x="idade", nbins=20, title="Distribuição de Idades dos Usuários")
 fig.update_layout(xaxis_title="Idade", yaxis_title="Frequência")
 fig.show()
