@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
+import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -41,6 +42,10 @@ plt.title('Distribuição de Idades dos Usuários')
 plt.xlabel('Idade')
 plt.ylabel('Frequência')
 plt.show()
+
+fig = px.histogram(df_usuarios, x="idade", nbins=20, title="Distribuição de Idades dos Usuários")
+fig.update_layout(xaxis_title="Idade", yaxis_title="Frequência")
+fig.show()
 
 sns.countplot(x='tipo_viajante', data=df_usuarios)
 plt.title('Distribuição dos Tipos de Viajante')
